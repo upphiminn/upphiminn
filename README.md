@@ -2,6 +2,8 @@
 
 Welcome to my github page 👨🏻‍💻
 
+![profile views](https://komarev.com/ghpvc/?username=upphiminn&color=brightgreen&style=flat-square
+
 <!--
 **upphiminn/upphiminn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![profile views](https://komarev.com/ghpvc/?username=upphiminn&color=brightgreen&style=flat-square
+
