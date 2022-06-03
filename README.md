@@ -2,7 +2,7 @@
 
 Welcome to my github page 👨🏻‍💻
 
-![profile views](https://komarev.com/ghpvc/?username=upphiminn&color=brightgreen&style=flat-square
+![profile views](https://komarev.com/ghpvc/?username=upphiminn&color=brightgreen&style=flat-square)
 
 <!--
 **upphiminn/upphiminn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
